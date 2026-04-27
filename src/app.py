@@ -46,7 +46,7 @@ activities = {
         "participants": ["liam@mergington.edu", "noah@mergington.edu"]
     },
     "Yoga Club": {
-        "description": "Improve flexibility and super mindfulness through yoga practice",
+        "description": "Improve flexibility and mindfulness through yoga practice",
         "schedule": "Wednesdays, 4:00 PM - 5:00 PM",
         "max_participants": 20,
         "participants": ["ava@mergington.edu", "isabella@mergington.edu"]
